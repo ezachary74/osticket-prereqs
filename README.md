@@ -15,11 +15,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Windows (HP Envy) laptop
 
 <h2>List of Prerequisites</h2>
 
 - Microsoft Azure
-- Windows (HP) Laptop
 - Remote Desktop
 - Internet information services (IIS)
 - My SQL
