@@ -43,7 +43,7 @@ Once connected to the VM, download the osTicket-Installation-Files.zip and unzip
 ![image](https://github.com/user-attachments/assets/e80401a2-8b9b-4a62-afd5-c4b7968da69e)
 
 
-Install and enable IIS (Internet Information Services) in Windows with CGI. Navigate to the Control Panel through thw Windows icon and navigate to “Turn Windows Features On or Off”. Scroll down to locate IIS and check the box to activate it. Expand this selection, find World Wide Web Services/Application Development Features/CGI. Ensure that CGI is selected and then click OK.
+Install and enable IIS (Internet Information Services) in Windows with CGI. Navigate to the Control Panel through the Windows icon and navigate to “Turn Windows Features On or Off”. Scroll down to locate IIS and check the box to activate it. Expand this selection, find World Wide Web Services/Application Development Features/CGI. Ensure that CGI is selected and then click OK.
 
 
 ![image](https://github.com/user-attachments/assets/8c302f88-9210-4a49-8f05-25cf0d5efd88)
